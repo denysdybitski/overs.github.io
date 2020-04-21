@@ -1,0 +1,74 @@
+body{
+	 font: bold 14px/1.4 'Open Sans', arial, sans-serif;
+  background: #000;
+}
+.hi{
+	color: white;
+	font-size: 40px ;
+	margin-left: 400px;
+	margin-top: 200px;
+
+}
+.about{
+	color: white;
+	font-size: 30px;
+	width: 400px;	
+	margin-top: 200px;
+	margin-left: 700px;
+
+}
+.infa{
+	color: white;
+	font-size: 20px;
+	width: 600px;
+	margin-left: 700px;
+
+}
+.infr{
+	color: white;
+	font-size: 20px;
+	width: 600px;
+	margin-left: 700px;
+
+}
+.infu{
+	color: white;
+	font-size: 20px;
+	width: 600px;
+	margin-left: 700px;
+
+}
+.abou{
+	color: white;
+	font-size: 30px;
+	width: 400px;	
+	margin-top: 00px;
+	margin-left: 900px;
+	
+}
+
+.client{
+	color: white;
+	font-size: 30px;
+	width: 400px;	
+	margin-top: 200px;
+	margin-left: 430px;
+	
+}
+
+.clien{
+	color: white;
+	font-size: 30px;
+	width: 400px;	
+	margin-top: 40px;
+	margin-left: 900px;
+	
+}
+
+.inform{
+	color: white;
+	font-size: 20px;
+	width: 600px;
+	margin-left: 430px;	
+
+}

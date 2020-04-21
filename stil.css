@@ -1,0 +1,25 @@
+body{
+	 font: bold 14px/1.4 'Open Sans', arial, sans-serif;
+  background: #000;
+}
+.hi{
+	color: white;
+	font-size: 25px;
+	margin-left: 400px;
+	margin-top: 200px;
+	width: 800px;
+}
+.port{
+	color: white;
+	font-size: 25px;
+	position: relative;
+	top: 170px;
+	left: 400px;
+}
+.portt{
+	color: white;
+	font-size: 25px;
+	position: relative;
+	top: 10px;
+	left: 400px;
+}
